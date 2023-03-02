@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Albert Einstein",
+    "logo": "https://storage.googleapis.com/www-paredro-com/uploads/2014/02/3026019-slide-einstein.jpg",
+    "description": "“Locura es hacer lo mismo una y otra vez esperando obtener resultados diferentes"
+  },
+  {
+    "name": "Isaac Newton",
+    "logo": "https://www.paredro.com/wp-content/uploads/2014/02/3026019-slide-newton.jpg",
+    "description": "“Platón es mi amigo, Aristóteles es mi amigo, pero mi mejor amigo es la verdad”"
+  },
+  {
+    "name": "Arquimedes de Siracusa",
+    "logo": "https://www.paredro.com/wp-content/uploads/2014/02/3026019-slide-archimedes.jpg",
+    "description": "Dadme un punto de apoyo y moveré la tierra."
+  },
+  {
+    "name": "Marie Curie",
+    "logo": "https://www.paredro.com/wp-content/uploads/2014/02/3026019-slide-curie.jpg",
+    "description": "La mejor vida no es la más larga, sino la más rica en buenas acciones."
+  },
+  {
+    "name": "René Descartes",
+    "logo": "https://www.paredro.com/wp-content/uploads/2014/02/3026019-slide-descartes.jpg",
+    "description": "Dos cosas contribuyen a avanzar: ir más deprisa que los otros, o ir por el buen camino."
+  },
+  {
+    "name": "Miguel Bosé",
+    "logo": "https://www.paredro.com/wp-content/uploads/2014/02/3026019-slide-bose.jpg",
+    "description": "Creo que en la vida el erotismo está siempre presente. Cuántas veces al día usted puede toparse con miradas provocadoras o usted lanza miradas que desatan mucho erotismo."
+  }
+]

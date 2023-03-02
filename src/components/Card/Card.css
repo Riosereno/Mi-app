@@ -1,0 +1,25 @@
+.card {
+    width: 300px;
+
+    box-shadow: 0 0 10px lightseagreen;
+    border-radius: 1rem;
+}
+
+.card__container-img {
+    display: flex;
+    justify-content: center;
+}
+
+.card__container-img img {
+    max-width: 200px;
+}
+
+.card__title {
+    color: lightseagreen;
+
+}
+.card__description{
+
+    font-size : 30px;
+
+}
